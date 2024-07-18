@@ -1,0 +1,17 @@
+{
+  "name": "nameste-react",
+  "version": "1.0.0",
+  "description": "this is namaste react by me",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "alok patel",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
