@@ -23,3 +23,13 @@ node module is a collection of dependency.
 if delete node module then command -> npm install 
 
 
+# local host
+code => npx pacel index.html
+
+after this code our app will be host or we can search localhost:1234 
+
+npm -> install a package
+npx -> exiciting a package
+
+install react -> npm install react (command)
+                npm install react-dom (install react-dom)
